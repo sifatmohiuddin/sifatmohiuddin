@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://i.imgur.com/2yUB0nD.png](https://github.com/sifatmohiuddin/sifatmohiuddin/blob/main/A_banner_image_designed_for_Sifat_Mohiuddin.png)" alt="Banner" width="100%" /> <!-- Replace this with your own banner URL -->
+  <img src="https://raw.githubusercontent.com/sifatmohiuddin/sifatmohiuddin/main/A_banner_image_designed_for_Sifat_Mohiuddin.png" alt="Banner" width="100%" /> <!-- Replace this with your own banner URL -->
 </p>
 
 <!-- Typing SVG -->
