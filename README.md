@@ -14,7 +14,7 @@
 
 ### 👋 About Me
 
-I’m **Sifat Mohiuddin**, a junior Laravel developer passionate about building clean, secure, and scalable web applications.
+I’m **Sifat Mohiuddin**, a Laravel developer passionate about building clean, secure, and scalable web applications.
 
 - 🎓 Studying Computer Science at **Chittagong Independent University**
 - 🧠 Learning Laravel, Vue.js, Docker, and clean architecture
