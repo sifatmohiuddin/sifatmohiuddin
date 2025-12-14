@@ -19,7 +19,7 @@ I’m **Sifat Mohiuddin**, a Laravel developer passionate about building clean, 
 - 🎓 Studying Computer Science at **Chittagong Independent University**
 - 🧠 Learning Laravel, Vue.js, Docker, and clean architecture
 - 🛠️ Recently completed internship at **Bangladesh Engineering and IT Development**
-- 🌐 Portfolio: <a href="[https://sifat-mohiuddin.vercel.app/]" target="_blank">
+- 🌐 Portfolio: <a href="https://sifat-mohiuddin.vercel.app/" target="_blank">
   Check this out
 </a>
 - 📫 Reach me: [sifatmohiuddin@gmail.com](mailto:sifatmohiuddin@gmail.com)
