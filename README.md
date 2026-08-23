@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sifatmohiuddin/sifatmohiuddin/main/A_banner_image_designed_for_Sifat_Mohiuddin.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/sifatmohiuddin/sifatmohiuddin/main/sqa-banner.png" alt="Banner" width="100%" />
 </p>
 
 <!-- Typing SVG -->
